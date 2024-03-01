@@ -1,6 +1,6 @@
 {
   "name": "Re:Vamp",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Vamp Anime Girl",
   "authors": [
     {
@@ -157,7 +157,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/1136317741092057249/1136333438148947988/SIX_29272BA9-9171-4AEB-8181-3907154E6872.png",
+    "url": "https://cdn.discordapp.com/attachments/1198956934280261684/1213220862916825098/1f0456jpcq4g.png?ex=65f4aefa&is=65e239fa&hm=63c494f7fa86ad1966dd7bb710a7c4922395a9be6ea98e62f345e7d3b2a7c5c4&",
     "alpha": 1.0
   }
 }
