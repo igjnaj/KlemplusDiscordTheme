@@ -312,27 +312,27 @@
   "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
     },
     "background": {
-        "blur": 0.1,
-        "url": "https://github.com/Quinxxxx/Discord-themes/blob/main/RosieBlue.png?raw=1"
+        "blur": 0.3,
+        "url": "https://github.com/igjnaj/KlemplusDiscordTheme/blob/main/bg.jpg?raw=true"
     },
    "plus":{
        "version":"0",
        "customOverlays": true,
        "icons":{
-          "ic_radio_circle_checked": "#4A75E0",
+          "ic_radio_circle_checked": "#EAC5C1",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
-          "ic_radio_square_24px": "#4A75E0",
-          "ic_radio_square_checked_24px": "#4A75E0",
+          "ic_radio_square_24px": "#EAC5C1",
+          "ic_radio_square_checked_24px": "#EAC5C1",
           "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-          "ic_selection_checked_24px": "#4A75E0",
+          "ic_selection_checked_24px": "#EAC5C1",
           "ic_selection_checked_24px__overlay": "#FFFFFF",
-          "img_account_sync_spotify_white": "#1ed760",
-          "StatusMobileOnline": "#3BA55C",
-          "StatusIdle": "#FAA61A",
-          "StatusDND": "#F04747",
-          "StatusOffline": "#747F8D",
-          "StatusOnline": "#3BA55C",
-          "StatusStreaming": "#593695"
+          "img_account_sync_spotify_white": "#EAC5C1",
+          "StatusMobileOnline": "#EAC5C1",
+          "StatusIdle": "#EAC5C1",
+          "StatusDND": "#EAC5C1",
+          "StatusOffline": "#EAC5C1",
+          "StatusOnline": "#EAC5C1",
+          "StatusStreaming": "#EAC5C1"
  }
 },
     "spec": 2
