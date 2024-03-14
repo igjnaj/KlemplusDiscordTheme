@@ -1,172 +1,176 @@
 {
-    "name": "RosieBlue",
-    "description": "meow meow but in blue",
+    "name": "RosiePink",
+    "description": "meow meow but in pink",
     "version": "1",
     "authors": [
       {
         "name": "Moodle",
         "id": "807170846497570848"
+      },
+      {
+          "name": "Klemplus"
+          "id": "807170846497570848"
       }
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#50575E11"
+      "#EAC5C1"
       ],
       "BACKGROUND_ACCENT": [
-      "#7A89BE"
+      "#EAC5C1"
       ],
       "BACKGROUND_MENTIONED": [
-      "#6398FF40"
+      "#EAC5C1"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#1E1F26"
+      "#EAC5C1"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#22222E"
+      "#EAC5C1"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#22222E"
+      "#EAC5C1"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#363961"
+      "#EAC5C1"
       ],
       "BACKGROUND_MODIFIER_ACCENT_2": [
-      "#7573801e"
+      "#EAC5C1"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#5653617A"
+      "#EAC5C1"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#8A8CBF4c"
+      "#EAC5C1"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#4A4D63"
+      "#EAC5C1"
       ],
       "BACKGROUND_PRIMARY": [
-      "#22222E"
+      "#EAC5C1"
       ],
       "BACKGROUND_SECONDARY": [
-      "#292936"
+      "#EAC5C1"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#343442"
+      "#EAC5C1"
       ],
       "BACKGROUND_TERTIARY": [
-      "#343442"
+      "#EAC5C1"
       ],
       "BG_BASE_PRIMARY": [
-      "#22222E"
+      "#EAC5C1"
       ],
       "BG_BACKDROP": [
-      "#000000b2"
+      "#EAC5C1"
       ],
       "BG_BASE_SECONDARY": [
-      "#22222E"
+      "#EAC5C1"
       ],
       "BG_BASE_TERTIARY": [
-      "#1D1D26"
+      "#EAC5C1"
       ],
       "HOME_BACKGROUND": [
-      "#292936"
+      "#EAC5C1"
       ],
       "BORDER_FAINT": [
-      "#434A6B"
+      "#EAC5C1"
       ],
       "BORDER_STRONG": [
-      "#3F3D45"
+      "#EAC5C1"
       ],      
       "BORDER_SUBTLE": [
-      "#3F3D45"
+      "#EAC5C1"
       ],
       "CARD_SECONDARY_BG": [
-      "#27262E"
+      "#EAC5C1"
       ],
       "CARD_PRIMARY_BG": [
-      "#292936"
+      "#EAC5C1"
       ],
       "CHANNEL_ICON": [
-      "#B7BFED"
+      "#EAC5C1"
       ],
       "CHANNELS_DEFAULT": [
-      "#9C9AA6"
+      "#EAC5C1"
       ],
       "EMBED_BACKGROUND": [
-      "#393B4D"
+      "#EAC5C1"
       ],
       "HEADER_PRIMARY": [
-      "#98AFF9"
+      "#EAC5C1"
       ],
       "HEADER_SECONDARY": [
-      "#9C9AA6"
+      "#EAC5C1"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#F7F7F7"
+      "#EAC5C1"
       ],
       "INTERACTIVE_HOVER": [
-      "#E6E6E6"
+      "#EAC5C1"
       ],
       "INTERACTIVE_MUTED": [
-      "#8A8CBF"
+      "#EAC5C1"
       ],
       "INTERACTIVE_NORMAL": [
-      "#CECDD1"
+      "#EAC5C1"
       ],
       "MENTION_BACKGROUND": [
-      "#6398FF5e"
+      "#EAC5C1"
       ],
       "MENTION_FOREGROUND": [
-      "#DFDEFF"
+      "#EAC5C1"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#17161B"
+      "#EAC5C1"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#17161B"
+      "#EAC5C1"
       ], 
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#363757"
+      "#EAC5C1"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#3D3E66"
+      "#EAC5C1"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#9C9AA6"
+      "#EAC5C1"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#F7F7F7"
+      "#EAC5C1"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#17161B"
+      "#EAC5C1"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#4A4954"
+      "#EAC5C1"
       ],
       "STATUS_DANGER": [
-      "#4475F4"
+      "#EAC5C1"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#4475F4"
+      "#EAC5C1"
       ],
       "STATUS_DANGER_TEXT": [
       "#FFFFFF"
       ],
       "TEXT_DANGER": [
-      "#7C98F9"
+      "#EAC5C1"
       ],
       "TEXT_LINK": [
-      "#8FB0E8"
+      "#EAC5C1"
       ],
       "TEXT_MUTED": [
-      "#98AFF9"
+      "#EAC5C1"
       ],
       "TEXT_NORMAL": [
-      "#CECDD1"
+      "#EAC5C1"
       ],
       "TEXT_PRIMARY": [
-      "#CECDD1"
+      "#EAC5C1"
       ],
       "TEXT_SECONDARY": [
-      "#9C9AA6"
+      "#EAC5C1"
       ]
     },
     "rawColors": {
